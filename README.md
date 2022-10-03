@@ -26,7 +26,6 @@ make
 ## Usage
 
 ```
-    cd my-tar
     make
     ./my_tar -cf file.tar source.c source.h
     ./my_tar -tf file.tar
