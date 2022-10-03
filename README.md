@@ -1,7 +1,8 @@
 # My_Tar-Qwasar
 # Welcome to My Tar
 ***
-Hello, my peer reviwer, I hope you will be kind while checking the project, Thank you!
+![image](https://user-images.githubusercontent.com/96412090/193509705-0b71d6da-15c3-4245-8eed-ab631a42c647.png)
+
 
 ## Task
 
